@@ -2,7 +2,7 @@ encoding: UTF-8
 
 lsi: false
 safe: true
-source: [your repo's top level directory]
+source: [ellicari/yalinli]
 incremental: false
 highlighter: rouge
 gist:
